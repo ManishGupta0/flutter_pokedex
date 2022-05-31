@@ -1,16 +1,12 @@
-# flutter_pokedex
+# Flutter Pokédex
 
-A new Flutter project.
+Pokédex app build with Flutter
 
-## Getting Started
+## App Preview
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Pokémon List](/docs/screenshots/pokemon_list.jpg "Pokémon List")
+![Pokémon Details 1](/docs/screenshots/pokemon_details_1.jpg "Pokémon Details 1")
+![Pokémon Details 2](/docs/screenshots/pokemon_details_2.jpg "Pokémon Details 2")
+![Pokémon Details 3](/docs/screenshots/pokemon_details_3.jpg "Pokémon Details 3")
+![Pokémon By Type](/docs/screenshots/pokemon_by_type.jpg "Pokémon By Type")
+![Attack Details](/docs/screenshots/pokemon_attack_details.jpg "Attack Details")
