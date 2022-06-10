@@ -1,6 +1,6 @@
 # Flutter Pokédex
 
-Pokédex app build with Flutter
+Pokédex app build with Flutter and [PokéAPI](https://pokeapi.co/)
 
 ## App Preview
 
